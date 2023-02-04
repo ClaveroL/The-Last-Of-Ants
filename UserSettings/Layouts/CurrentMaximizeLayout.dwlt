@@ -46,10 +46,10 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 576.8
+    x: 736.8
     y: 73.6
-    width: 594.00006
-    height: 240.6
+    width: 434.00006
+    height: 327.8
   m_ViewDataDictionary: {fileID: 0}
   m_OverlayCanvas:
     m_LastAppliedPresetName: Default
@@ -60,7 +60,7 @@ MonoBehaviour:
   m_ShowGizmos: 0
   m_TargetDisplay: 0
   m_ClearColor: {r: 0, g: 0, b: 0, a: 0}
-  m_TargetSize: {x: 594.00006, y: 219.6}
+  m_TargetSize: {x: 434.00006, y: 306.8}
   m_TextureFilterMode: 0
   m_TextureHideFlags: 61
   m_RenderIMGUI: 1
@@ -75,19 +75,19 @@ MonoBehaviour:
     m_VRangeLocked: 0
     hZoomLockedByDefault: 0
     vZoomLockedByDefault: 0
-    m_HBaseRangeMin: -237.60002
-    m_HBaseRangeMax: 237.60002
-    m_VBaseRangeMin: -87.840004
-    m_VBaseRangeMax: 87.840004
+    m_HBaseRangeMin: -173.60002
+    m_HBaseRangeMax: 173.60002
+    m_VBaseRangeMin: -122.71999
+    m_VBaseRangeMax: 122.71999
     m_HAllowExceedBaseRangeMin: 1
     m_HAllowExceedBaseRangeMax: 1
     m_VAllowExceedBaseRangeMin: 1
     m_VAllowExceedBaseRangeMax: 1
     m_ScaleWithWindow: 0
-    m_HSlider: 0
-    m_VSlider: 0
+    m_HSlider: 1
+    m_VSlider: 1
     m_IgnoreScrollWheelUntilClicked: 0
-    m_EnableMouseInput: 0
+    m_EnableMouseInput: 1
     m_EnableSliderZoomHorizontal: 0
     m_EnableSliderZoomVertical: 0
     m_UniformScale: 1
@@ -96,23 +96,23 @@ MonoBehaviour:
       serializedVersion: 2
       x: 0
       y: 21
-      width: 594.00006
-      height: 219.6
-    m_Scale: {x: 1.300082, y: 1.300082}
-    m_Translation: {x: 298.9266, y: 106.53871}
+      width: 434.00006
+      height: 306.8
+    m_Scale: {x: 1.3000815, y: 1.3000821}
+    m_Translation: {x: 218.92667, y: 150.13872}
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
     m_MarginBottom: 0
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
-      x: -229.92905
-      y: -81.947685
-      width: 456.89432
-      height: 168.91243
+      x: -168.39458
+      y: -115.48403
+      width: 333.8253
+      height: 235.98509
     m_MinimalGUI: 1
   m_defaultScale: 1
-  m_LastWindowPixelSize: {x: 742.50006, y: 300.75}
+  m_LastWindowPixelSize: {x: 542.50006, y: 409.75}
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
   m_LowResolutionForAspectRatios: 01000000000000000000
@@ -164,7 +164,7 @@ MonoBehaviour:
     x: 0
     y: 0
     width: 1172.8
-    height: 261.6
+    height: 348.8
   m_MinSize: {x: 300, y: 100}
   m_MaxSize: {x: 24288, y: 8096}
   vertical: 0
@@ -186,8 +186,8 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 206.4
-    height: 261.6
+    width: 204
+    height: 348.8
   m_MinSize: {x: 201, y: 221}
   m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 6}
@@ -218,8 +218,8 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 73.6
-    width: 205.4
-    height: 240.6
+    width: 203
+    height: 327.8
   m_ViewDataDictionary: {fileID: 0}
   m_OverlayCanvas:
     m_LastAppliedPresetName: Default
@@ -227,9 +227,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 228d0000
+      m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: b0c5feff0efbffff1274000020740000
+      m_ExpandedIDs: fc9bfdffb0c5feff0efbffff1274000020740000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -245,7 +245,7 @@ MonoBehaviour:
         m_IsRenaming: 0
         m_OriginalEventType: 11
         m_IsRenamingFilename: 0
-        m_ClientGUIView: {fileID: 0}
+        m_ClientGUIView: {fileID: 5}
       m_SearchString: 
     m_ExpandedScenes: []
     m_CurrenRootInstanceID: 0
@@ -268,10 +268,10 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
-    x: 206.4
+    x: 204
     y: 0
-    width: 370.4
-    height: 261.6
+    width: 532.8
+    height: 348.8
   m_MinSize: {x: 202, y: 221}
   m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 8}
@@ -300,10 +300,10 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 206.40001
+    x: 204
     y: 73.6
-    width: 368.4
-    height: 240.6
+    width: 530.8
+    height: 327.8
   m_ViewDataDictionary: {fileID: 0}
   m_OverlayCanvas:
     m_LastAppliedPresetName: Default
@@ -560,9 +560,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -34.79618, y: -50.49603, z: -54.730988}
+    m_Target: {x: 198.56943, y: -62.10622, z: -42.656677}
     speed: 2
-    m_Value: {x: -34.79618, y: -50.49603, z: -54.730988}
+    m_Value: {x: 198.56943, y: -62.10622, z: -42.656677}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -609,13 +609,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.12068272, y: 0.8786165, z: -0.3461565, w: -0.30629012}
+    m_Target: {x: -0.097297564, y: -0.74820095, z: 0.11267197, w: -0.64671075}
     speed: 2
-    m_Value: {x: -0.12124699, y: 0.87813705, z: -0.34444678, w: -0.3090806}
+    m_Value: {x: -0.09842797, y: -0.74698526, z: 0.113635376, w: -0.6476203}
   m_Size:
-    m_Target: 38.353203
+    m_Target: 109.85805
     speed: 2
-    m_Value: 40.160423
+    m_Value: 105.12732
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -655,10 +655,10 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
-    x: 576.8
+    x: 736.8
     y: 0
-    width: 596.00006
-    height: 261.6
+    width: 436.00006
+    height: 348.8
   m_MinSize: {x: 202, y: 221}
   m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 2}
@@ -682,9 +682,9 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
     x: 0
-    y: 261.6
+    y: 348.8
     width: 1172.8
-    height: 509.19998
+    height: 422
   m_MinSize: {x: 231, y: 271}
   m_MaxSize: {x: 10001, y: 10021}
   m_ActualView: {fileID: 11}
@@ -715,9 +715,9 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 0
-    y: 335.2
+    y: 422.4
     width: 1171.8
-    height: 488.19998
+    height: 401
   m_ViewDataDictionary: {fileID: 0}
   m_OverlayCanvas:
     m_LastAppliedPresetName: Default
@@ -735,21 +735,21 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Character/Materials
+    - Assets
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Character/Materials
+  - Assets
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\juanm\The Last Of Ant
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: debf0000
-    m_LastClickedID: 49118
+    m_SelectedIDs: 4e760000
+    m_LastClickedID: 30286
     m_ExpandedIDs: 00000000a87400004e76000052760000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -803,8 +803,8 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: 228d0000
-    m_LastClickedInstanceID: 36130
+    m_SelectedInstanceIDs: 
+    m_LastClickedInstanceID: 0
     m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c6230000
     m_RenameOverlay:
@@ -952,10 +952,10 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 1168.8
-    y: 80.8
-    width: 359
-    height: 735.4
+    x: 1172.8
+    y: 73.6
+    width: 362.19995
+    height: 749.8
   m_ViewDataDictionary: {fileID: 0}
   m_OverlayCanvas:
     m_LastAppliedPresetName: Default
@@ -964,10 +964,10 @@ MonoBehaviour:
   notificationClearTime: -1
   timeSinceLastRotation: -1
   currentBranchAndRemoteHasUpdate: 0
-  currentTrackingStatusHasUpdate: 1
-  currentStatusEntriesHasUpdate: 1
-  repositoryProgressHasUpdate: 1
-  appManagerProgressHasUpdate: 1
+  currentTrackingStatusHasUpdate: 0
+  currentStatusEntriesHasUpdate: 0
+  repositoryProgressHasUpdate: 0
+  appManagerProgressHasUpdate: 0
   changeTab: 3
   activeTab: 3
   initProjectView:
@@ -980,8 +980,19 @@ MonoBehaviour:
     treeLocals:
       IsRemote: 0
       folders:
-        keys: []
-        values: []
+        keys:
+        - Local branches
+        values:
+        - path: Local branches
+          label: Local branches
+          level: 0
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 0
+          checkState: 0
       checkedFileNodes:
         keys: []
         values: []
@@ -990,12 +1001,22 @@ MonoBehaviour:
       displayRootNode: 1
       isSelectable: 1
       isCheckable: 0
-      nodes: []
-      selectedNode:
-        path: 
-        label: 
+      nodes:
+      - path: Local branches
+        label: Local branches
         level: 0
-        isFolder: 0
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 0
+        checkState: 0
+      selectedNode:
+        path: Local branches
+        label: Local branches
+        level: 0
+        isFolder: 1
         isContainer: 0
         isCollapsed: 0
         isHidden: 0
@@ -1005,8 +1026,30 @@ MonoBehaviour:
     treeRemotes:
       IsRemote: 1
       folders:
-        keys: []
-        values: []
+        keys:
+        - Remote branches
+        - origin
+        values:
+        - path: Remote branches
+          label: Remote branches
+          level: 0
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 0
+          checkState: 0
+        - path: origin
+          label: origin
+          level: 1
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 0
+          checkState: 0
       checkedFileNodes:
         keys: []
         values: []
@@ -1015,7 +1058,37 @@ MonoBehaviour:
       displayRootNode: 1
       isSelectable: 1
       isCheckable: 0
-      nodes: []
+      nodes:
+      - path: Remote branches
+        label: Remote branches
+        level: 0
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 0
+        checkState: 0
+      - path: origin
+        label: origin
+        level: 1
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 0
+        checkState: 0
+      - path: origin/HEAD
+        label: HEAD
+        level: 2
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 0
+        checkState: 0
       selectedNode:
         path: 
         label: 
@@ -1030,40 +1103,43 @@ MonoBehaviour:
     mode: 0
     newBranchName: 
     scroll: {x: 0, y: 0}
-    disableDelete: 0
-    disableCreate: 0
+    disableDelete: 1
+    disableCreate: 1
     lastLocalAndRemoteBranchListChangedEvent:
-      updatedTimeString: 
-      cacheType: 0
+      updatedTimeString: 2023-02-04T15:25:08.373-03:00
+      cacheType: 2
     lastCurrentBranchAndRemoteChange:
-      updatedTimeString: 
-      cacheType: 0
+      updatedTimeString: 2023-02-04T15:21:12.115-03:00
+      cacheType: 1
     currentBranch:
-      name: 
-      tracking: 
+      name: escene
+      tracking: origin/escene
     currentRemote:
-      name: 
-      url: 
+      name: origin
+      url: https://github.com/ClaveroL/the-last-of-ants.git
       login: 
       user: 
       host: 
       function: 0
       token: 
     localBranches: []
-    remoteBranches: []
+    remoteBranches:
+    - name: origin/HEAD
+      tracking: '[None]'
   changesView:
     currentBranchHasUpdate: 0
-    currentStatusEntriesHasUpdate: 1
+    currentStatusEntriesHasUpdate: 0
     currentLocksHasUpdate: 0
-    commitBody: 
-    commitMessage: 
+    commitBody: camara
+    commitMessage: Camara
     currentBranch: '[escene]'
-    treeScroll: {x: 0, y: 956}
+    treeScroll: {x: 0, y: 0}
     treeChanges:
       assets:
         keys:
         - 00000000000000001000000000000000
         - 705771674c4047f4a9fed96ef0bc4ef3
+        - fe616637f8f13d0468b3541ecf31fbc6
         - 1181c31e2301f1b44821b15dbf4139ce
         - dba34e8e5c120bb4089ca06f51a670b9
         - 9efe6dc74315f2a43809f94876c457e2
@@ -1094,6 +1170,12 @@ MonoBehaviour:
         - 151a1d946b98deb4b98445400983ba92
         - a83159a46d87d2a4f8cec651049b9231
         - 0313b02bd98255e49b959c364128d48b
+        - ed9ea5096a0132d4ab7fc2b50b8078dd
+        - a97ccb8269bdcaa4689750aa2a62d098
+        - ac7c89698c18405489fcb32716b05710
+        - 740d36987a4c190439e519db7771589f
+        - 473e5ac1830022b4da6d6a3173b0583a
+        - b023a8ba1cd26c74285614d212d2d90c
         values:
         - path: Assets
           label: Assets
@@ -1104,7 +1186,7 @@ MonoBehaviour:
           isHidden: 0
           isActive: 0
           treeIsCheckable: 1
-          checkState: 0
+          checkState: 1
           isLocked: 0
           gitStatusEntry:
             path: 
@@ -1122,7 +1204,7 @@ MonoBehaviour:
           isHidden: 0
           isActive: 0
           treeIsCheckable: 1
-          checkState: 0
+          checkState: 1
           isLocked: 0
           gitStatusEntry:
             path: 
@@ -1131,6 +1213,24 @@ MonoBehaviour:
             originalPath: 
             indexStatus: 0
             workTreeStatus: 0
+        - path: Assets\Materials\Floor.mat
+          label: Floor.mat
+          level: 2
+          isFolder: 0
+          isContainer: 1
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 1
+          isLocked: 0
+          gitStatusEntry:
+            path: Assets\Materials\Floor.mat
+            fullPath: C:\Users\juanm\The Last Of Ant\Assets\Materials\Floor.mat
+            projectPath: Assets\Materials\Floor.mat
+            originalPath: 
+            indexStatus: 1
+            workTreeStatus: 1
         - path: Assets\Materials\Tree.mat
           label: Tree.mat
           level: 2
@@ -1140,7 +1240,7 @@ MonoBehaviour:
           isHidden: 0
           isActive: 0
           treeIsCheckable: 1
-          checkState: 0
+          checkState: 1
           isLocked: 0
           gitStatusEntry:
             path: Assets\Materials\Tree.mat
@@ -1158,7 +1258,7 @@ MonoBehaviour:
           isHidden: 0
           isActive: 0
           treeIsCheckable: 1
-          checkState: 0
+          checkState: 1
           isLocked: 0
           gitStatusEntry:
             path: 
@@ -1176,7 +1276,7 @@ MonoBehaviour:
           isHidden: 0
           isActive: 0
           treeIsCheckable: 1
-          checkState: 0
+          checkState: 1
           isLocked: 0
           gitStatusEntry:
             path: 
@@ -1194,7 +1294,7 @@ MonoBehaviour:
           isHidden: 0
           isActive: 0
           treeIsCheckable: 1
-          checkState: 0
+          checkState: 1
           isLocked: 0
           gitStatusEntry:
             path: 
@@ -1212,7 +1312,7 @@ MonoBehaviour:
           isHidden: 0
           isActive: 0
           treeIsCheckable: 1
-          checkState: 0
+          checkState: 1
           isLocked: 0
           gitStatusEntry:
             path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
@@ -1230,7 +1330,7 @@ MonoBehaviour:
           isHidden: 0
           isActive: 0
           treeIsCheckable: 1
-          checkState: 0
+          checkState: 1
           isLocked: 0
           gitStatusEntry:
             path: Assets\Plugins\GitHub\Editor\big-logo@2x.png
@@ -1248,7 +1348,7 @@ MonoBehaviour:
           isHidden: 0
           isActive: 0
           treeIsCheckable: 1
-          checkState: 0
+          checkState: 1
           isLocked: 0
           gitStatusEntry:
             path: Assets\Plugins\GitHub\Editor\credits.txt
@@ -1266,7 +1366,7 @@ MonoBehaviour:
           isHidden: 0
           isActive: 0
           treeIsCheckable: 1
-          checkState: 0
+          checkState: 1
           isLocked: 0
           gitStatusEntry:
             path: Assets\Plugins\GitHub\Editor\eula.txt
@@ -1284,7 +1384,7 @@ MonoBehaviour:
           isHidden: 0
           isActive: 0
           treeIsCheckable: 1
-          checkState: 0
+          checkState: 1
           isLocked: 0
           gitStatusEntry:
             path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
@@ -1302,7 +1402,7 @@ MonoBehaviour:
           isHidden: 0
           isActive: 0
           treeIsCheckable: 1
-          checkState: 0
+          checkState: 1
           isLocked: 0
           gitStatusEntry:
             path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
@@ -1320,7 +1420,7 @@ MonoBehaviour:
           isHidden: 0
           isActive: 0
           treeIsCheckable: 1
-          checkState: 0
+          checkState: 1
           isLocked: 0
           gitStatusEntry:
             path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
@@ -1338,7 +1438,7 @@ MonoBehaviour:
           isHidden: 0
           isActive: 0
           treeIsCheckable: 1
-          checkState: 0
+          checkState: 1
           isLocked: 0
           gitStatusEntry:
             path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
@@ -1356,7 +1456,7 @@ MonoBehaviour:
           isHidden: 0
           isActive: 0
           treeIsCheckable: 1
-          checkState: 0
+          checkState: 1
           isLocked: 0
           gitStatusEntry:
             path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
@@ -1374,7 +1474,7 @@ MonoBehaviour:
           isHidden: 0
           isActive: 0
           treeIsCheckable: 1
-          checkState: 0
+          checkState: 1
           isLocked: 0
           gitStatusEntry:
             path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
@@ -1392,7 +1492,7 @@ MonoBehaviour:
           isHidden: 0
           isActive: 0
           treeIsCheckable: 1
-          checkState: 0
+          checkState: 1
           isLocked: 0
           gitStatusEntry:
             path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
@@ -1410,7 +1510,7 @@ MonoBehaviour:
           isHidden: 0
           isActive: 0
           treeIsCheckable: 1
-          checkState: 0
+          checkState: 1
           isLocked: 0
           gitStatusEntry:
             path: Assets\Plugins\GitHub\Editor\libsfw.bundle
@@ -1428,7 +1528,7 @@ MonoBehaviour:
           isHidden: 0
           isActive: 0
           treeIsCheckable: 1
-          checkState: 0
+          checkState: 1
           isLocked: 0
           gitStatusEntry:
             path: Assets\Plugins\GitHub\Editor\libsfw.so
@@ -1446,7 +1546,7 @@ MonoBehaviour:
           isHidden: 0
           isActive: 0
           treeIsCheckable: 1
-          checkState: 0
+          checkState: 1
           isLocked: 0
           gitStatusEntry:
             path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
@@ -1464,7 +1564,7 @@ MonoBehaviour:
           isHidden: 0
           isActive: 0
           treeIsCheckable: 1
-          checkState: 0
+          checkState: 1
           isLocked: 0
           gitStatusEntry:
             path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
@@ -1482,7 +1582,7 @@ MonoBehaviour:
           isHidden: 0
           isActive: 0
           treeIsCheckable: 1
-          checkState: 0
+          checkState: 1
           isLocked: 0
           gitStatusEntry:
             path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
@@ -1500,7 +1600,7 @@ MonoBehaviour:
           isHidden: 0
           isActive: 0
           treeIsCheckable: 1
-          checkState: 0
+          checkState: 1
           isLocked: 0
           gitStatusEntry:
             path: Assets\Plugins\GitHub\Editor\sfw.net.dll
@@ -1518,7 +1618,7 @@ MonoBehaviour:
           isHidden: 0
           isActive: 0
           treeIsCheckable: 1
-          checkState: 0
+          checkState: 1
           isLocked: 0
           gitStatusEntry:
             path: Assets\Plugins\GitHub\Editor\System.Threading.dll
@@ -1536,7 +1636,7 @@ MonoBehaviour:
           isHidden: 0
           isActive: 0
           treeIsCheckable: 1
-          checkState: 0
+          checkState: 1
           isLocked: 0
           gitStatusEntry:
             path: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
@@ -1554,7 +1654,7 @@ MonoBehaviour:
           isHidden: 0
           isActive: 0
           treeIsCheckable: 1
-          checkState: 0
+          checkState: 1
           isLocked: 0
           gitStatusEntry:
             path: 
@@ -1572,7 +1672,7 @@ MonoBehaviour:
           isHidden: 0
           isActive: 0
           treeIsCheckable: 1
-          checkState: 0
+          checkState: 1
           isLocked: 0
           gitStatusEntry:
             path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
@@ -1590,7 +1690,7 @@ MonoBehaviour:
           isHidden: 0
           isActive: 0
           treeIsCheckable: 1
-          checkState: 0
+          checkState: 1
           isLocked: 0
           gitStatusEntry:
             path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
@@ -1608,7 +1708,7 @@ MonoBehaviour:
           isHidden: 0
           isActive: 0
           treeIsCheckable: 1
-          checkState: 0
+          checkState: 1
           isLocked: 0
           gitStatusEntry:
             path: 
@@ -1626,7 +1726,7 @@ MonoBehaviour:
           isHidden: 0
           isActive: 0
           treeIsCheckable: 1
-          checkState: 0
+          checkState: 1
           isLocked: 0
           gitStatusEntry:
             path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
@@ -1644,7 +1744,7 @@ MonoBehaviour:
           isHidden: 0
           isActive: 0
           treeIsCheckable: 1
-          checkState: 0
+          checkState: 1
           isLocked: 0
           gitStatusEntry:
             path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
@@ -1662,12 +1762,120 @@ MonoBehaviour:
           isHidden: 0
           isActive: 0
           treeIsCheckable: 1
-          checkState: 0
+          checkState: 1
           isLocked: 0
           gitStatusEntry:
             path: Assets\The Last Of Ant.unity
             fullPath: C:\Users\juanm\The Last Of Ant\Assets\The Last Of Ant.unity
             projectPath: Assets\The Last Of Ant.unity
+            originalPath: 
+            indexStatus: 1
+            workTreeStatus: 1
+        - path: Assets\Tree.prefab
+          label: Tree.prefab
+          level: 1
+          isFolder: 0
+          isContainer: 1
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 1
+          isLocked: 0
+          gitStatusEntry:
+            path: Assets\Tree.prefab
+            fullPath: C:\Users\juanm\The Last Of Ant\Assets\Tree.prefab
+            projectPath: Assets\Tree.prefab
+            originalPath: 
+            indexStatus: 1
+            workTreeStatus: 1
+        - path: Assets\Tree_Textures
+          label: Tree_Textures
+          level: 1
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 1
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            indexStatus: 0
+            workTreeStatus: 0
+        - path: Assets\Tree_Textures\diffuse.png
+          label: diffuse.png
+          level: 2
+          isFolder: 0
+          isContainer: 1
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 1
+          isLocked: 0
+          gitStatusEntry:
+            path: Assets\Tree_Textures\diffuse.png
+            fullPath: C:\Users\juanm\The Last Of Ant\Assets\Tree_Textures\diffuse.png
+            projectPath: Assets\Tree_Textures\diffuse.png
+            originalPath: 
+            indexStatus: 1
+            workTreeStatus: 1
+        - path: Assets\Tree_Textures\normal_specular.png
+          label: normal_specular.png
+          level: 2
+          isFolder: 0
+          isContainer: 1
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 1
+          isLocked: 0
+          gitStatusEntry:
+            path: Assets\Tree_Textures\normal_specular.png
+            fullPath: C:\Users\juanm\The Last Of Ant\Assets\Tree_Textures\normal_specular.png
+            projectPath: Assets\Tree_Textures\normal_specular.png
+            originalPath: 
+            indexStatus: 1
+            workTreeStatus: 1
+        - path: Assets\Tree_Textures\shadow.png
+          label: shadow.png
+          level: 2
+          isFolder: 0
+          isContainer: 1
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 1
+          isLocked: 0
+          gitStatusEntry:
+            path: Assets\Tree_Textures\shadow.png
+            fullPath: C:\Users\juanm\The Last Of Ant\Assets\Tree_Textures\shadow.png
+            projectPath: Assets\Tree_Textures\shadow.png
+            originalPath: 
+            indexStatus: 1
+            workTreeStatus: 1
+        - path: Assets\Tree_Textures\translucency_gloss.png
+          label: translucency_gloss.png
+          level: 2
+          isFolder: 0
+          isContainer: 1
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 1
+          isLocked: 0
+          gitStatusEntry:
+            path: Assets\Tree_Textures\translucency_gloss.png
+            fullPath: C:\Users\juanm\The Last Of Ant\Assets\Tree_Textures\translucency_gloss.png
+            projectPath: Assets\Tree_Textures\translucency_gloss.png
             originalPath: 
             indexStatus: 1
             workTreeStatus: 1
@@ -1680,6 +1888,7 @@ MonoBehaviour:
         - Assets\Plugins\GitHub\Editor
         - Assets\Plugins\GitHub\Editor\x64
         - Assets\Plugins\GitHub\Editor\x86
+        - Assets\Tree_Textures
         - ProjectSettings
         - UserSettings
         - UserSettings\Layouts
@@ -1693,7 +1902,7 @@ MonoBehaviour:
           isHidden: 0
           isActive: 0
           treeIsCheckable: 1
-          checkState: 0
+          checkState: 1
           isLocked: 0
           gitStatusEntry:
             path: 
@@ -1711,7 +1920,7 @@ MonoBehaviour:
           isHidden: 0
           isActive: 0
           treeIsCheckable: 1
-          checkState: 0
+          checkState: 1
           isLocked: 0
           gitStatusEntry:
             path: 
@@ -1729,7 +1938,7 @@ MonoBehaviour:
           isHidden: 0
           isActive: 0
           treeIsCheckable: 1
-          checkState: 0
+          checkState: 1
           isLocked: 0
           gitStatusEntry:
             path: 
@@ -1747,7 +1956,7 @@ MonoBehaviour:
           isHidden: 0
           isActive: 0
           treeIsCheckable: 1
-          checkState: 0
+          checkState: 1
           isLocked: 0
           gitStatusEntry:
             path: 
@@ -1765,7 +1974,7 @@ MonoBehaviour:
           isHidden: 0
           isActive: 0
           treeIsCheckable: 1
-          checkState: 0
+          checkState: 1
           isLocked: 0
           gitStatusEntry:
             path: 
@@ -1783,7 +1992,7 @@ MonoBehaviour:
           isHidden: 0
           isActive: 0
           treeIsCheckable: 1
-          checkState: 0
+          checkState: 1
           isLocked: 0
           gitStatusEntry:
             path: 
@@ -1801,7 +2010,25 @@ MonoBehaviour:
           isHidden: 0
           isActive: 0
           treeIsCheckable: 1
-          checkState: 0
+          checkState: 1
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            indexStatus: 0
+            workTreeStatus: 0
+        - path: Assets\Tree_Textures
+          label: Tree_Textures
+          level: 1
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 1
           isLocked: 0
           gitStatusEntry:
             path: 
@@ -1819,7 +2046,7 @@ MonoBehaviour:
           isHidden: 0
           isActive: 0
           treeIsCheckable: 1
-          checkState: 0
+          checkState: 1
           isLocked: 0
           gitStatusEntry:
             path: 
@@ -1837,7 +2064,7 @@ MonoBehaviour:
           isHidden: 0
           isActive: 0
           treeIsCheckable: 1
-          checkState: 0
+          checkState: 1
           isLocked: 0
           gitStatusEntry:
             path: 
@@ -1855,7 +2082,7 @@ MonoBehaviour:
           isHidden: 0
           isActive: 0
           treeIsCheckable: 1
-          checkState: 0
+          checkState: 1
           isLocked: 0
           gitStatusEntry:
             path: 
@@ -1865,8 +2092,1376 @@ MonoBehaviour:
             indexStatus: 0
             workTreeStatus: 0
       checkedFileNodes:
-        keys: []
-        values: []
+        keys:
+        - Assets\Materials.meta
+        - Assets\Materials\Floor.mat
+        - Assets\Materials\Floor.mat.meta
+        - Assets\Materials\Tree.mat
+        - Assets\Materials\Tree.mat.meta
+        - Assets\Plugins.meta
+        - Assets\Plugins\GitHub.meta
+        - Assets\Plugins\GitHub\Editor.meta
+        - Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+        - Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+        - Assets\Plugins\GitHub\Editor\big-logo@2x.png
+        - Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+        - Assets\Plugins\GitHub\Editor\credits.txt
+        - Assets\Plugins\GitHub\Editor\credits.txt.meta
+        - Assets\Plugins\GitHub\Editor\eula.txt
+        - Assets\Plugins\GitHub\Editor\eula.txt.meta
+        - Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+        - Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+        - Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+        - Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+        - Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+        - Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+        - Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+        - Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+        - Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+        - Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+        - Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+        - Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+        - Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+        - Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+        - Assets\Plugins\GitHub\Editor\libsfw.bundle
+        - Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+        - Assets\Plugins\GitHub\Editor\libsfw.so
+        - Assets\Plugins\GitHub\Editor\libsfw.so.meta
+        - Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+        - Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+        - Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+        - Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+        - Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+        - Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+        - Assets\Plugins\GitHub\Editor\sfw.net.dll
+        - Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+        - Assets\Plugins\GitHub\Editor\System.Threading.dll
+        - Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+        - Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+        - Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+        - Assets\Plugins\GitHub\Editor\x64.meta
+        - Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+        - Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+        - Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+        - Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+        - Assets\Plugins\GitHub\Editor\x86.meta
+        - Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+        - Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+        - Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+        - Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+        - Assets\The Last Of Ant.unity
+        - Assets\The Last Of Ant.unity.meta
+        - Assets\Tree.prefab
+        - Assets\Tree.prefab.meta
+        - Assets\Tree_Textures.meta
+        - Assets\Tree_Textures\diffuse.png
+        - Assets\Tree_Textures\diffuse.png.meta
+        - Assets\Tree_Textures\normal_specular.png
+        - Assets\Tree_Textures\normal_specular.png.meta
+        - Assets\Tree_Textures\shadow.png
+        - Assets\Tree_Textures\shadow.png.meta
+        - Assets\Tree_Textures\translucency_gloss.png
+        - Assets\Tree_Textures\translucency_gloss.png.meta
+        - ProjectSettings\SceneTemplateSettings.json
+        - UserSettings\EditorUserSettings.asset
+        - UserSettings\Layouts\default-2021.dwlt
+        values:
+        - path: Assets\Materials.meta
+          label: Materials.meta
+          level: 1
+          isFolder: 0
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 1
+          isLocked: 0
+          gitStatusEntry:
+            path: Assets\Materials.meta
+            fullPath: C:\Users\juanm\The Last Of Ant\Assets\Materials.meta
+            projectPath: Assets\Materials.meta
+            originalPath: 
+            indexStatus: 1
+            workTreeStatus: 1
+        - path: Assets\Materials\Floor.mat
+          label: Floor.mat
+          level: 2
+          isFolder: 0
+          isContainer: 1
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 1
+          isLocked: 0
+          gitStatusEntry:
+            path: Assets\Materials\Floor.mat
+            fullPath: C:\Users\juanm\The Last Of Ant\Assets\Materials\Floor.mat
+            projectPath: Assets\Materials\Floor.mat
+            originalPath: 
+            indexStatus: 1
+            workTreeStatus: 1
+        - path: Assets\Materials\Floor.mat.meta
+          label: Floor.mat.meta
+          level: 3
+          isFolder: 0
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 1
+          isLocked: 0
+          gitStatusEntry:
+            path: Assets\Materials\Floor.mat.meta
+            fullPath: C:\Users\juanm\The Last Of Ant\Assets\Materials\Floor.mat.meta
+            projectPath: Assets\Materials\Floor.mat.meta
+            originalPath: 
+            indexStatus: 1
+            workTreeStatus: 1
+        - path: Assets\Materials\Tree.mat
+          label: Tree.mat
+          level: 2
+          isFolder: 0
+          isContainer: 1
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 1
+          isLocked: 0
+          gitStatusEntry:
+            path: Assets\Materials\Tree.mat
+            fullPath: C:\Users\juanm\The Last Of Ant\Assets\Materials\Tree.mat
+            projectPath: Assets\Materials\Tree.mat
+            originalPath: 
+            indexStatus: 1
+            workTreeStatus: 1
+        - path: Assets\Materials\Tree.mat.meta
+          label: Tree.mat.meta
+          level: 3
+          isFolder: 0
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 1
+          isLocked: 0
+          gitStatusEntry:
+            path: Assets\Materials\Tree.mat.meta
+            fullPath: C:\Users\juanm\The Last Of Ant\Assets\Materials\Tree.mat.meta
+            projectPath: Assets\Materials\Tree.mat.meta
+            originalPath: 
+            indexStatus: 1
+            workTreeStatus: 1
+        - path: Assets\Plugins.meta
+          label: Plugins.meta
+          level: 1
+          isFolder: 0
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 1
+          isLocked: 0
+          gitStatusEntry:
+            path: Assets\Plugins.meta
+            fullPath: C:\Users\juanm\The Last Of Ant\Assets\Plugins.meta
+            projectPath: Assets\Plugins.meta
+            originalPath: 
+            indexStatus: 1
+            workTreeStatus: 1
+        - path: Assets\Plugins\GitHub.meta
+          label: GitHub.meta
+          level: 2
+          isFolder: 0
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 1
+          isLocked: 0
+          gitStatusEntry:
+            path: Assets\Plugins\GitHub.meta
+            fullPath: C:\Users\juanm\The Last Of Ant\Assets\Plugins\GitHub.meta
+            projectPath: Assets\Plugins\GitHub.meta
+            originalPath: 
+            indexStatus: 1
+            workTreeStatus: 1
+        - path: Assets\Plugins\GitHub\Editor.meta
+          label: Editor.meta
+          level: 3
+          isFolder: 0
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 1
+          isLocked: 0
+          gitStatusEntry:
+            path: Assets\Plugins\GitHub\Editor.meta
+            fullPath: C:\Users\juanm\The Last Of Ant\Assets\Plugins\GitHub\Editor.meta
+            projectPath: Assets\Plugins\GitHub\Editor.meta
+            originalPath: 
+            indexStatus: 1
+            workTreeStatus: 1
+        - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+          label: AsyncBridge.Net35.dll
+          level: 4
+          isFolder: 0
+          isContainer: 1
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 1
+          isLocked: 0
+          gitStatusEntry:
+            path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+            fullPath: C:\Users\juanm\The Last Of Ant\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+            projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+            originalPath: 
+            indexStatus: 1
+            workTreeStatus: 1
+        - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+          label: AsyncBridge.Net35.dll.meta
+          level: 5
+          isFolder: 0
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 1
+          isLocked: 0
+          gitStatusEntry:
+            path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+            fullPath: C:\Users\juanm\The Last Of Ant\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+            projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+            originalPath: 
+            indexStatus: 1
+            workTreeStatus: 1
+        - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+          label: big-logo@2x.png
+          level: 4
+          isFolder: 0
+          isContainer: 1
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 1
+          isLocked: 0
+          gitStatusEntry:
+            path: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+            fullPath: C:\Users\juanm\The Last Of Ant\Assets\Plugins\GitHub\Editor\big-logo@2x.png
+            projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+            originalPath: 
+            indexStatus: 1
+            workTreeStatus: 1
+        - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+          label: big-logo@2x.png.meta
+          level: 5
+          isFolder: 0
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 1
+          isLocked: 0
+          gitStatusEntry:
+            path: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+            fullPath: C:\Users\juanm\The Last Of Ant\Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+            projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+            originalPath: 
+            indexStatus: 1
+            workTreeStatus: 1
+        - path: Assets\Plugins\GitHub\Editor\credits.txt
+          label: credits.txt
+          level: 4
+          isFolder: 0
+          isContainer: 1
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 1
+          isLocked: 0
+          gitStatusEntry:
+            path: Assets\Plugins\GitHub\Editor\credits.txt
+            fullPath: C:\Users\juanm\The Last Of Ant\Assets\Plugins\GitHub\Editor\credits.txt
+            projectPath: Assets\Plugins\GitHub\Editor\credits.txt
+            originalPath: 
+            indexStatus: 1
+            workTreeStatus: 1
+        - path: Assets\Plugins\GitHub\Editor\credits.txt.meta
+          label: credits.txt.meta
+          level: 5
+          isFolder: 0
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 1
+          isLocked: 0
+          gitStatusEntry:
+            path: Assets\Plugins\GitHub\Editor\credits.txt.meta
+            fullPath: C:\Users\juanm\The Last Of Ant\Assets\Plugins\GitHub\Editor\credits.txt.meta
+            projectPath: Assets\Plugins\GitHub\Editor\credits.txt.meta
+            originalPath: 
+            indexStatus: 1
+            workTreeStatus: 1
+        - path: Assets\Plugins\GitHub\Editor\eula.txt
+          label: eula.txt
+          level: 4
+          isFolder: 0
+          isContainer: 1
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 1
+          isLocked: 0
+          gitStatusEntry:
+            path: Assets\Plugins\GitHub\Editor\eula.txt
+            fullPath: C:\Users\juanm\The Last Of Ant\Assets\Plugins\GitHub\Editor\eula.txt
+            projectPath: Assets\Plugins\GitHub\Editor\eula.txt
+            originalPath: 
+            indexStatus: 1
+            workTreeStatus: 1
+        - path: Assets\Plugins\GitHub\Editor\eula.txt.meta
+          label: eula.txt.meta
+          level: 5
+          isFolder: 0
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 1
+          isLocked: 0
+          gitStatusEntry:
+            path: Assets\Plugins\GitHub\Editor\eula.txt.meta
+            fullPath: C:\Users\juanm\The Last Of Ant\Assets\Plugins\GitHub\Editor\eula.txt.meta
+            projectPath: Assets\Plugins\GitHub\Editor\eula.txt.meta
+            originalPath: 
+            indexStatus: 1
+            workTreeStatus: 1
+        - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+          label: ExtensionLoader.cs
+          level: 4
+          isFolder: 0
+          isContainer: 1
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 1
+          isLocked: 0
+          gitStatusEntry:
+            path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+            fullPath: C:\Users\juanm\The Last Of Ant\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+            projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+            originalPath: 
+            indexStatus: 1
+            workTreeStatus: 1
+        - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+          label: ExtensionLoader.cs.meta
+          level: 5
+          isFolder: 0
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 1
+          isLocked: 0
+          gitStatusEntry:
+            path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+            fullPath: C:\Users\juanm\The Last Of Ant\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+            projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+            originalPath: 
+            indexStatus: 1
+            workTreeStatus: 1
+        - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+          label: GitHub.Api.45.dll
+          level: 4
+          isFolder: 0
+          isContainer: 1
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 1
+          isLocked: 0
+          gitStatusEntry:
+            path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+            fullPath: C:\Users\juanm\The Last Of Ant\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+            projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+            originalPath: 
+            indexStatus: 1
+            workTreeStatus: 1
+        - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+          label: GitHub.Api.45.dll.meta
+          level: 5
+          isFolder: 0
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 1
+          isLocked: 0
+          gitStatusEntry:
+            path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+            fullPath: C:\Users\juanm\The Last Of Ant\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+            projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+            originalPath: 
+            indexStatus: 1
+            workTreeStatus: 1
+        - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+          label: GitHub.Api.dll
+          level: 4
+          isFolder: 0
+          isContainer: 1
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 1
+          isLocked: 0
+          gitStatusEntry:
+            path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+            fullPath: C:\Users\juanm\The Last Of Ant\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+            projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+            originalPath: 
+            indexStatus: 1
+            workTreeStatus: 1
+        - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+          label: GitHub.Api.dll.meta
+          level: 5
+          isFolder: 0
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 1
+          isLocked: 0
+          gitStatusEntry:
+            path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+            fullPath: C:\Users\juanm\The Last Of Ant\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+            projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+            originalPath: 
+            indexStatus: 1
+            workTreeStatus: 1
+        - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+          label: GitHub.Logging.dll
+          level: 4
+          isFolder: 0
+          isContainer: 1
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 1
+          isLocked: 0
+          gitStatusEntry:
+            path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+            fullPath: C:\Users\juanm\The Last Of Ant\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+            projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+            originalPath: 
+            indexStatus: 1
+            workTreeStatus: 1
+        - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+          label: GitHub.Logging.dll.meta
+          level: 5
+          isFolder: 0
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 1
+          isLocked: 0
+          gitStatusEntry:
+            path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+            fullPath: C:\Users\juanm\The Last Of Ant\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+            projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+            originalPath: 
+            indexStatus: 1
+            workTreeStatus: 1
+        - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+          label: GitHub.Unity.45.dll
+          level: 4
+          isFolder: 0
+          isContainer: 1
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 1
+          isLocked: 0
+          gitStatusEntry:
+            path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+            fullPath: C:\Users\juanm\The Last Of Ant\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+            projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+            originalPath: 
+            indexStatus: 1
+            workTreeStatus: 1
+        - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+          label: GitHub.Unity.45.dll.meta
+          level: 5
+          isFolder: 0
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 1
+          isLocked: 0
+          gitStatusEntry:
+            path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+            fullPath: C:\Users\juanm\The Last Of Ant\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+            projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+            originalPath: 
+            indexStatus: 1
+            workTreeStatus: 1
+        - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+          label: GitHub.Unity.dll
+          level: 4
+          isFolder: 0
+          isContainer: 1
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 1
+          isLocked: 0
+          gitStatusEntry:
+            path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+            fullPath: C:\Users\juanm\The Last Of Ant\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+            projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+            originalPath: 
+            indexStatus: 1
+            workTreeStatus: 1
+        - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+          label: GitHub.Unity.dll.meta
+          level: 5
+          isFolder: 0
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 1
+          isLocked: 0
+          gitStatusEntry:
+            path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+            fullPath: C:\Users\juanm\The Last Of Ant\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+            projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+            originalPath: 
+            indexStatus: 1
+            workTreeStatus: 1
+        - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+          label: GitHub.UnityShim.dll
+          level: 4
+          isFolder: 0
+          isContainer: 1
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 1
+          isLocked: 0
+          gitStatusEntry:
+            path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+            fullPath: C:\Users\juanm\The Last Of Ant\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+            projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+            originalPath: 
+            indexStatus: 1
+            workTreeStatus: 1
+        - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+          label: GitHub.UnityShim.dll.meta
+          level: 5
+          isFolder: 0
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 1
+          isLocked: 0
+          gitStatusEntry:
+            path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+            fullPath: C:\Users\juanm\The Last Of Ant\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+            projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+            originalPath: 
+            indexStatus: 1
+            workTreeStatus: 1
+        - path: Assets\Plugins\GitHub\Editor\libsfw.bundle
+          label: libsfw.bundle
+          level: 4
+          isFolder: 0
+          isContainer: 1
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 1
+          isLocked: 0
+          gitStatusEntry:
+            path: Assets\Plugins\GitHub\Editor\libsfw.bundle
+            fullPath: C:\Users\juanm\The Last Of Ant\Assets\Plugins\GitHub\Editor\libsfw.bundle
+            projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle
+            originalPath: 
+            indexStatus: 1
+            workTreeStatus: 1
+        - path: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+          label: libsfw.bundle.meta
+          level: 5
+          isFolder: 0
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 1
+          isLocked: 0
+          gitStatusEntry:
+            path: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+            fullPath: C:\Users\juanm\The Last Of Ant\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+            projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+            originalPath: 
+            indexStatus: 1
+            workTreeStatus: 1
+        - path: Assets\Plugins\GitHub\Editor\libsfw.so
+          label: libsfw.so
+          level: 4
+          isFolder: 0
+          isContainer: 1
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 1
+          isLocked: 0
+          gitStatusEntry:
+            path: Assets\Plugins\GitHub\Editor\libsfw.so
+            fullPath: C:\Users\juanm\The Last Of Ant\Assets\Plugins\GitHub\Editor\libsfw.so
+            projectPath: Assets\Plugins\GitHub\Editor\libsfw.so
+            originalPath: 
+            indexStatus: 1
+            workTreeStatus: 1
+        - path: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+          label: libsfw.so.meta
+          level: 5
+          isFolder: 0
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 1
+          isLocked: 0
+          gitStatusEntry:
+            path: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+            fullPath: C:\Users\juanm\The Last Of Ant\Assets\Plugins\GitHub\Editor\libsfw.so.meta
+            projectPath: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+            originalPath: 
+            indexStatus: 1
+            workTreeStatus: 1
+        - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+          label: Mono.Posix.dll
+          level: 4
+          isFolder: 0
+          isContainer: 1
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 1
+          isLocked: 0
+          gitStatusEntry:
+            path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+            fullPath: C:\Users\juanm\The Last Of Ant\Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+            projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+            originalPath: 
+            indexStatus: 1
+            workTreeStatus: 1
+        - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+          label: Mono.Posix.dll.meta
+          level: 5
+          isFolder: 0
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 1
+          isLocked: 0
+          gitStatusEntry:
+            path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+            fullPath: C:\Users\juanm\The Last Of Ant\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+            projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+            originalPath: 
+            indexStatus: 1
+            workTreeStatus: 1
+        - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+          label: QuickGuide.pdf
+          level: 4
+          isFolder: 0
+          isContainer: 1
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 1
+          isLocked: 0
+          gitStatusEntry:
+            path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+            fullPath: C:\Users\juanm\The Last Of Ant\Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+            projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+            originalPath: 
+            indexStatus: 1
+            workTreeStatus: 1
+        - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+          label: QuickGuide.pdf.meta
+          level: 5
+          isFolder: 0
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 1
+          isLocked: 0
+          gitStatusEntry:
+            path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+            fullPath: C:\Users\juanm\The Last Of Ant\Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+            projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+            originalPath: 
+            indexStatus: 1
+            workTreeStatus: 1
+        - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+          label: ReadOnlyCollectionsInterfaces.dll
+          level: 4
+          isFolder: 0
+          isContainer: 1
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 1
+          isLocked: 0
+          gitStatusEntry:
+            path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+            fullPath: C:\Users\juanm\The Last Of Ant\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+            projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+            originalPath: 
+            indexStatus: 1
+            workTreeStatus: 1
+        - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+          label: ReadOnlyCollectionsInterfaces.dll.meta
+          level: 5
+          isFolder: 0
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 1
+          isLocked: 0
+          gitStatusEntry:
+            path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+            fullPath: C:\Users\juanm\The Last Of Ant\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+            projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+            originalPath: 
+            indexStatus: 1
+            workTreeStatus: 1
+        - path: Assets\Plugins\GitHub\Editor\sfw.net.dll
+          label: sfw.net.dll
+          level: 4
+          isFolder: 0
+          isContainer: 1
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 1
+          isLocked: 0
+          gitStatusEntry:
+            path: Assets\Plugins\GitHub\Editor\sfw.net.dll
+            fullPath: C:\Users\juanm\The Last Of Ant\Assets\Plugins\GitHub\Editor\sfw.net.dll
+            projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll
+            originalPath: 
+            indexStatus: 1
+            workTreeStatus: 1
+        - path: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+          label: sfw.net.dll.meta
+          level: 5
+          isFolder: 0
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 1
+          isLocked: 0
+          gitStatusEntry:
+            path: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+            fullPath: C:\Users\juanm\The Last Of Ant\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+            projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+            originalPath: 
+            indexStatus: 1
+            workTreeStatus: 1
+        - path: Assets\Plugins\GitHub\Editor\System.Threading.dll
+          label: System.Threading.dll
+          level: 4
+          isFolder: 0
+          isContainer: 1
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 1
+          isLocked: 0
+          gitStatusEntry:
+            path: Assets\Plugins\GitHub\Editor\System.Threading.dll
+            fullPath: C:\Users\juanm\The Last Of Ant\Assets\Plugins\GitHub\Editor\System.Threading.dll
+            projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll
+            originalPath: 
+            indexStatus: 1
+            workTreeStatus: 1
+        - path: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+          label: System.Threading.dll.meta
+          level: 5
+          isFolder: 0
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 1
+          isLocked: 0
+          gitStatusEntry:
+            path: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+            fullPath: C:\Users\juanm\The Last Of Ant\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+            projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+            originalPath: 
+            indexStatus: 1
+            workTreeStatus: 1
+        - path: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+          label: UnityAPIWrapper.cs
+          level: 4
+          isFolder: 0
+          isContainer: 1
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 1
+          isLocked: 0
+          gitStatusEntry:
+            path: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+            fullPath: C:\Users\juanm\The Last Of Ant\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+            projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+            originalPath: 
+            indexStatus: 1
+            workTreeStatus: 1
+        - path: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+          label: UnityAPIWrapper.cs.meta
+          level: 5
+          isFolder: 0
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 1
+          isLocked: 0
+          gitStatusEntry:
+            path: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+            fullPath: C:\Users\juanm\The Last Of Ant\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+            projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+            originalPath: 
+            indexStatus: 1
+            workTreeStatus: 1
+        - path: Assets\Plugins\GitHub\Editor\x64.meta
+          label: x64.meta
+          level: 4
+          isFolder: 0
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 1
+          isLocked: 0
+          gitStatusEntry:
+            path: Assets\Plugins\GitHub\Editor\x64.meta
+            fullPath: C:\Users\juanm\The Last Of Ant\Assets\Plugins\GitHub\Editor\x64.meta
+            projectPath: Assets\Plugins\GitHub\Editor\x64.meta
+            originalPath: 
+            indexStatus: 1
+            workTreeStatus: 1
+        - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+          label: pthreadVC2.dll
+          level: 5
+          isFolder: 0
+          isContainer: 1
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 1
+          isLocked: 0
+          gitStatusEntry:
+            path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+            fullPath: C:\Users\juanm\The Last Of Ant\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+            projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+            originalPath: 
+            indexStatus: 1
+            workTreeStatus: 1
+        - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+          label: pthreadVC2.dll.meta
+          level: 6
+          isFolder: 0
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 1
+          isLocked: 0
+          gitStatusEntry:
+            path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+            fullPath: C:\Users\juanm\The Last Of Ant\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+            projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+            originalPath: 
+            indexStatus: 1
+            workTreeStatus: 1
+        - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+          label: sfw_x64.dll
+          level: 5
+          isFolder: 0
+          isContainer: 1
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 1
+          isLocked: 0
+          gitStatusEntry:
+            path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+            fullPath: C:\Users\juanm\The Last Of Ant\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+            projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+            originalPath: 
+            indexStatus: 1
+            workTreeStatus: 1
+        - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+          label: sfw_x64.dll.meta
+          level: 6
+          isFolder: 0
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 1
+          isLocked: 0
+          gitStatusEntry:
+            path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+            fullPath: C:\Users\juanm\The Last Of Ant\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+            projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+            originalPath: 
+            indexStatus: 1
+            workTreeStatus: 1
+        - path: Assets\Plugins\GitHub\Editor\x86.meta
+          label: x86.meta
+          level: 4
+          isFolder: 0
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 1
+          isLocked: 0
+          gitStatusEntry:
+            path: Assets\Plugins\GitHub\Editor\x86.meta
+            fullPath: C:\Users\juanm\The Last Of Ant\Assets\Plugins\GitHub\Editor\x86.meta
+            projectPath: Assets\Plugins\GitHub\Editor\x86.meta
+            originalPath: 
+            indexStatus: 1
+            workTreeStatus: 1
+        - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+          label: pthreadVC2.dll
+          level: 5
+          isFolder: 0
+          isContainer: 1
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 1
+          isLocked: 0
+          gitStatusEntry:
+            path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+            fullPath: C:\Users\juanm\The Last Of Ant\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+            projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+            originalPath: 
+            indexStatus: 1
+            workTreeStatus: 1
+        - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+          label: pthreadVC2.dll.meta
+          level: 6
+          isFolder: 0
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 1
+          isLocked: 0
+          gitStatusEntry:
+            path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+            fullPath: C:\Users\juanm\The Last Of Ant\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+            projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+            originalPath: 
+            indexStatus: 1
+            workTreeStatus: 1
+        - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+          label: sfw_x86.dll
+          level: 5
+          isFolder: 0
+          isContainer: 1
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 1
+          isLocked: 0
+          gitStatusEntry:
+            path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+            fullPath: C:\Users\juanm\The Last Of Ant\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+            projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+            originalPath: 
+            indexStatus: 1
+            workTreeStatus: 1
+        - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+          label: sfw_x86.dll.meta
+          level: 6
+          isFolder: 0
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 1
+          isLocked: 0
+          gitStatusEntry:
+            path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+            fullPath: C:\Users\juanm\The Last Of Ant\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+            projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+            originalPath: 
+            indexStatus: 1
+            workTreeStatus: 1
+        - path: Assets\The Last Of Ant.unity
+          label: The Last Of Ant.unity
+          level: 1
+          isFolder: 0
+          isContainer: 1
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 1
+          isLocked: 0
+          gitStatusEntry:
+            path: Assets\The Last Of Ant.unity
+            fullPath: C:\Users\juanm\The Last Of Ant\Assets\The Last Of Ant.unity
+            projectPath: Assets\The Last Of Ant.unity
+            originalPath: 
+            indexStatus: 1
+            workTreeStatus: 1
+        - path: Assets\The Last Of Ant.unity.meta
+          label: The Last Of Ant.unity.meta
+          level: 2
+          isFolder: 0
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 1
+          isLocked: 0
+          gitStatusEntry:
+            path: Assets\The Last Of Ant.unity.meta
+            fullPath: C:\Users\juanm\The Last Of Ant\Assets\The Last Of Ant.unity.meta
+            projectPath: Assets\The Last Of Ant.unity.meta
+            originalPath: 
+            indexStatus: 1
+            workTreeStatus: 1
+        - path: Assets\Tree.prefab
+          label: Tree.prefab
+          level: 1
+          isFolder: 0
+          isContainer: 1
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 1
+          isLocked: 0
+          gitStatusEntry:
+            path: Assets\Tree.prefab
+            fullPath: C:\Users\juanm\The Last Of Ant\Assets\Tree.prefab
+            projectPath: Assets\Tree.prefab
+            originalPath: 
+            indexStatus: 1
+            workTreeStatus: 1
+        - path: Assets\Tree.prefab.meta
+          label: Tree.prefab.meta
+          level: 2
+          isFolder: 0
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 1
+          isLocked: 0
+          gitStatusEntry:
+            path: Assets\Tree.prefab.meta
+            fullPath: C:\Users\juanm\The Last Of Ant\Assets\Tree.prefab.meta
+            projectPath: Assets\Tree.prefab.meta
+            originalPath: 
+            indexStatus: 1
+            workTreeStatus: 1
+        - path: Assets\Tree_Textures.meta
+          label: Tree_Textures.meta
+          level: 1
+          isFolder: 0
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 1
+          isLocked: 0
+          gitStatusEntry:
+            path: Assets\Tree_Textures.meta
+            fullPath: C:\Users\juanm\The Last Of Ant\Assets\Tree_Textures.meta
+            projectPath: Assets\Tree_Textures.meta
+            originalPath: 
+            indexStatus: 1
+            workTreeStatus: 1
+        - path: Assets\Tree_Textures\diffuse.png
+          label: diffuse.png
+          level: 2
+          isFolder: 0
+          isContainer: 1
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 1
+          isLocked: 0
+          gitStatusEntry:
+            path: Assets\Tree_Textures\diffuse.png
+            fullPath: C:\Users\juanm\The Last Of Ant\Assets\Tree_Textures\diffuse.png
+            projectPath: Assets\Tree_Textures\diffuse.png
+            originalPath: 
+            indexStatus: 1
+            workTreeStatus: 1
+        - path: Assets\Tree_Textures\diffuse.png.meta
+          label: diffuse.png.meta
+          level: 3
+          isFolder: 0
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 1
+          isLocked: 0
+          gitStatusEntry:
+            path: Assets\Tree_Textures\diffuse.png.meta
+            fullPath: C:\Users\juanm\The Last Of Ant\Assets\Tree_Textures\diffuse.png.meta
+            projectPath: Assets\Tree_Textures\diffuse.png.meta
+            originalPath: 
+            indexStatus: 1
+            workTreeStatus: 1
+        - path: Assets\Tree_Textures\normal_specular.png
+          label: normal_specular.png
+          level: 2
+          isFolder: 0
+          isContainer: 1
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 1
+          isLocked: 0
+          gitStatusEntry:
+            path: Assets\Tree_Textures\normal_specular.png
+            fullPath: C:\Users\juanm\The Last Of Ant\Assets\Tree_Textures\normal_specular.png
+            projectPath: Assets\Tree_Textures\normal_specular.png
+            originalPath: 
+            indexStatus: 1
+            workTreeStatus: 1
+        - path: Assets\Tree_Textures\normal_specular.png.meta
+          label: normal_specular.png.meta
+          level: 3
+          isFolder: 0
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 1
+          isLocked: 0
+          gitStatusEntry:
+            path: Assets\Tree_Textures\normal_specular.png.meta
+            fullPath: C:\Users\juanm\The Last Of Ant\Assets\Tree_Textures\normal_specular.png.meta
+            projectPath: Assets\Tree_Textures\normal_specular.png.meta
+            originalPath: 
+            indexStatus: 1
+            workTreeStatus: 1
+        - path: Assets\Tree_Textures\shadow.png
+          label: shadow.png
+          level: 2
+          isFolder: 0
+          isContainer: 1
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 1
+          isLocked: 0
+          gitStatusEntry:
+            path: Assets\Tree_Textures\shadow.png
+            fullPath: C:\Users\juanm\The Last Of Ant\Assets\Tree_Textures\shadow.png
+            projectPath: Assets\Tree_Textures\shadow.png
+            originalPath: 
+            indexStatus: 1
+            workTreeStatus: 1
+        - path: Assets\Tree_Textures\shadow.png.meta
+          label: shadow.png.meta
+          level: 3
+          isFolder: 0
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 1
+          isLocked: 0
+          gitStatusEntry:
+            path: Assets\Tree_Textures\shadow.png.meta
+            fullPath: C:\Users\juanm\The Last Of Ant\Assets\Tree_Textures\shadow.png.meta
+            projectPath: Assets\Tree_Textures\shadow.png.meta
+            originalPath: 
+            indexStatus: 1
+            workTreeStatus: 1
+        - path: Assets\Tree_Textures\translucency_gloss.png
+          label: translucency_gloss.png
+          level: 2
+          isFolder: 0
+          isContainer: 1
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 1
+          isLocked: 0
+          gitStatusEntry:
+            path: Assets\Tree_Textures\translucency_gloss.png
+            fullPath: C:\Users\juanm\The Last Of Ant\Assets\Tree_Textures\translucency_gloss.png
+            projectPath: Assets\Tree_Textures\translucency_gloss.png
+            originalPath: 
+            indexStatus: 1
+            workTreeStatus: 1
+        - path: Assets\Tree_Textures\translucency_gloss.png.meta
+          label: translucency_gloss.png.meta
+          level: 3
+          isFolder: 0
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 1
+          isLocked: 0
+          gitStatusEntry:
+            path: Assets\Tree_Textures\translucency_gloss.png.meta
+            fullPath: C:\Users\juanm\The Last Of Ant\Assets\Tree_Textures\translucency_gloss.png.meta
+            projectPath: Assets\Tree_Textures\translucency_gloss.png.meta
+            originalPath: 
+            indexStatus: 1
+            workTreeStatus: 1
+        - path: ProjectSettings\SceneTemplateSettings.json
+          label: SceneTemplateSettings.json
+          level: 1
+          isFolder: 0
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 1
+          isLocked: 0
+          gitStatusEntry:
+            path: ProjectSettings\SceneTemplateSettings.json
+            fullPath: C:\Users\juanm\The Last Of Ant\ProjectSettings\SceneTemplateSettings.json
+            projectPath: ProjectSettings\SceneTemplateSettings.json
+            originalPath: 
+            indexStatus: 1
+            workTreeStatus: 1
+        - path: UserSettings\EditorUserSettings.asset
+          label: EditorUserSettings.asset
+          level: 1
+          isFolder: 0
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 1
+          isLocked: 0
+          gitStatusEntry:
+            path: UserSettings\EditorUserSettings.asset
+            fullPath: C:\Users\juanm\The Last Of Ant\UserSettings\EditorUserSettings.asset
+            projectPath: UserSettings\EditorUserSettings.asset
+            originalPath: 
+            indexStatus: 0
+            workTreeStatus: 3
+        - path: UserSettings\Layouts\default-2021.dwlt
+          label: default-2021.dwlt
+          level: 2
+          isFolder: 0
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 1
+          isLocked: 0
+          gitStatusEntry:
+            path: UserSettings\Layouts\default-2021.dwlt
+            fullPath: C:\Users\juanm\The Last Of Ant\UserSettings\Layouts\default-2021.dwlt
+            projectPath: UserSettings\Layouts\default-2021.dwlt
+            originalPath: 
+            indexStatus: 0
+            workTreeStatus: 3
       title: 
       pathSeparator: \
       displayRootNode: 0
@@ -1883,7 +3478,7 @@ MonoBehaviour:
         isHidden: 0
         isActive: 0
         treeIsCheckable: 1
-        checkState: 0
+        checkState: 1
         isLocked: 0
         gitStatusEntry:
           path: 
@@ -1901,7 +3496,7 @@ MonoBehaviour:
         isHidden: 0
         isActive: 0
         treeIsCheckable: 1
-        checkState: 0
+        checkState: 1
         isLocked: 0
         gitStatusEntry:
           path: 
@@ -1919,7 +3514,7 @@ MonoBehaviour:
         isHidden: 0
         isActive: 0
         treeIsCheckable: 1
-        checkState: 0
+        checkState: 1
         isLocked: 0
         gitStatusEntry:
           path: Assets\Materials.meta
@@ -1937,7 +3532,7 @@ MonoBehaviour:
         isHidden: 0
         isActive: 0
         treeIsCheckable: 1
-        checkState: 0
+        checkState: 1
         isLocked: 0
         gitStatusEntry:
           path: 
@@ -1946,6 +3541,42 @@ MonoBehaviour:
           originalPath: 
           indexStatus: 0
           workTreeStatus: 0
+      - path: Assets\Materials\Floor.mat
+        label: Floor.mat
+        level: 2
+        isFolder: 0
+        isContainer: 1
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 1
+        isLocked: 0
+        gitStatusEntry:
+          path: Assets\Materials\Floor.mat
+          fullPath: C:\Users\juanm\The Last Of Ant\Assets\Materials\Floor.mat
+          projectPath: Assets\Materials\Floor.mat
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Assets\Materials\Floor.mat.meta
+        label: Floor.mat.meta
+        level: 3
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 1
+        isLocked: 0
+        gitStatusEntry:
+          path: Assets\Materials\Floor.mat.meta
+          fullPath: C:\Users\juanm\The Last Of Ant\Assets\Materials\Floor.mat.meta
+          projectPath: Assets\Materials\Floor.mat.meta
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
       - path: Assets\Materials\Tree.mat
         label: Tree.mat
         level: 2
@@ -1955,7 +3586,7 @@ MonoBehaviour:
         isHidden: 0
         isActive: 0
         treeIsCheckable: 1
-        checkState: 0
+        checkState: 1
         isLocked: 0
         gitStatusEntry:
           path: Assets\Materials\Tree.mat
@@ -1973,7 +3604,7 @@ MonoBehaviour:
         isHidden: 0
         isActive: 0
         treeIsCheckable: 1
-        checkState: 0
+        checkState: 1
         isLocked: 0
         gitStatusEntry:
           path: Assets\Materials\Tree.mat.meta
@@ -1991,7 +3622,7 @@ MonoBehaviour:
         isHidden: 0
         isActive: 0
         treeIsCheckable: 1
-        checkState: 0
+        checkState: 1
         isLocked: 0
         gitStatusEntry:
           path: Assets\Plugins.meta
@@ -2009,7 +3640,7 @@ MonoBehaviour:
         isHidden: 0
         isActive: 0
         treeIsCheckable: 1
-        checkState: 0
+        checkState: 1
         isLocked: 0
         gitStatusEntry:
           path: 
@@ -2027,7 +3658,7 @@ MonoBehaviour:
         isHidden: 0
         isActive: 0
         treeIsCheckable: 1
-        checkState: 0
+        checkState: 1
         isLocked: 0
         gitStatusEntry:
           path: Assets\Plugins\GitHub.meta
@@ -2045,7 +3676,7 @@ MonoBehaviour:
         isHidden: 0
         isActive: 0
         treeIsCheckable: 1
-        checkState: 0
+        checkState: 1
         isLocked: 0
         gitStatusEntry:
           path: 
@@ -2063,7 +3694,7 @@ MonoBehaviour:
         isHidden: 0
         isActive: 0
         treeIsCheckable: 1
-        checkState: 0
+        checkState: 1
         isLocked: 0
         gitStatusEntry:
           path: Assets\Plugins\GitHub\Editor.meta
@@ -2081,7 +3712,7 @@ MonoBehaviour:
         isHidden: 0
         isActive: 0
         treeIsCheckable: 1
-        checkState: 0
+        checkState: 1
         isLocked: 0
         gitStatusEntry:
           path: 
@@ -2099,7 +3730,7 @@ MonoBehaviour:
         isHidden: 0
         isActive: 0
         treeIsCheckable: 1
-        checkState: 0
+        checkState: 1
         isLocked: 0
         gitStatusEntry:
           path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
@@ -2117,7 +3748,7 @@ MonoBehaviour:
         isHidden: 0
         isActive: 0
         treeIsCheckable: 1
-        checkState: 0
+        checkState: 1
         isLocked: 0
         gitStatusEntry:
           path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
@@ -2135,7 +3766,7 @@ MonoBehaviour:
         isHidden: 0
         isActive: 0
         treeIsCheckable: 1
-        checkState: 0
+        checkState: 1
         isLocked: 0
         gitStatusEntry:
           path: Assets\Plugins\GitHub\Editor\big-logo@2x.png
@@ -2153,7 +3784,7 @@ MonoBehaviour:
         isHidden: 0
         isActive: 0
         treeIsCheckable: 1
-        checkState: 0
+        checkState: 1
         isLocked: 0
         gitStatusEntry:
           path: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
@@ -2171,7 +3802,7 @@ MonoBehaviour:
         isHidden: 0
         isActive: 0
         treeIsCheckable: 1
-        checkState: 0
+        checkState: 1
         isLocked: 0
         gitStatusEntry:
           path: Assets\Plugins\GitHub\Editor\credits.txt
@@ -2189,7 +3820,7 @@ MonoBehaviour:
         isHidden: 0
         isActive: 0
         treeIsCheckable: 1
-        checkState: 0
+        checkState: 1
         isLocked: 0
         gitStatusEntry:
           path: Assets\Plugins\GitHub\Editor\credits.txt.meta
@@ -2207,7 +3838,7 @@ MonoBehaviour:
         isHidden: 0
         isActive: 0
         treeIsCheckable: 1
-        checkState: 0
+        checkState: 1
         isLocked: 0
         gitStatusEntry:
           path: Assets\Plugins\GitHub\Editor\eula.txt
@@ -2225,7 +3856,7 @@ MonoBehaviour:
         isHidden: 0
         isActive: 0
         treeIsCheckable: 1
-        checkState: 0
+        checkState: 1
         isLocked: 0
         gitStatusEntry:
           path: Assets\Plugins\GitHub\Editor\eula.txt.meta
@@ -2243,7 +3874,7 @@ MonoBehaviour:
         isHidden: 0
         isActive: 0
         treeIsCheckable: 1
-        checkState: 0
+        checkState: 1
         isLocked: 0
         gitStatusEntry:
           path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
@@ -2261,7 +3892,7 @@ MonoBehaviour:
         isHidden: 0
         isActive: 0
         treeIsCheckable: 1
-        checkState: 0
+        checkState: 1
         isLocked: 0
         gitStatusEntry:
           path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
@@ -2279,7 +3910,7 @@ MonoBehaviour:
         isHidden: 0
         isActive: 0
         treeIsCheckable: 1
-        checkState: 0
+        checkState: 1
         isLocked: 0
         gitStatusEntry:
           path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
@@ -2297,7 +3928,7 @@ MonoBehaviour:
         isHidden: 0
         isActive: 0
         treeIsCheckable: 1
-        checkState: 0
+        checkState: 1
         isLocked: 0
         gitStatusEntry:
           path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
@@ -2315,7 +3946,7 @@ MonoBehaviour:
         isHidden: 0
         isActive: 0
         treeIsCheckable: 1
-        checkState: 0
+        checkState: 1
         isLocked: 0
         gitStatusEntry:
           path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
@@ -2333,7 +3964,7 @@ MonoBehaviour:
         isHidden: 0
         isActive: 0
         treeIsCheckable: 1
-        checkState: 0
+        checkState: 1
         isLocked: 0
         gitStatusEntry:
           path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
@@ -2351,7 +3982,7 @@ MonoBehaviour:
         isHidden: 0
         isActive: 0
         treeIsCheckable: 1
-        checkState: 0
+        checkState: 1
         isLocked: 0
         gitStatusEntry:
           path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
@@ -2369,7 +4000,7 @@ MonoBehaviour:
         isHidden: 0
         isActive: 0
         treeIsCheckable: 1
-        checkState: 0
+        checkState: 1
         isLocked: 0
         gitStatusEntry:
           path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
@@ -2387,7 +4018,7 @@ MonoBehaviour:
         isHidden: 0
         isActive: 0
         treeIsCheckable: 1
-        checkState: 0
+        checkState: 1
         isLocked: 0
         gitStatusEntry:
           path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
@@ -2405,7 +4036,7 @@ MonoBehaviour:
         isHidden: 0
         isActive: 0
         treeIsCheckable: 1
-        checkState: 0
+        checkState: 1
         isLocked: 0
         gitStatusEntry:
           path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
@@ -2423,7 +4054,7 @@ MonoBehaviour:
         isHidden: 0
         isActive: 0
         treeIsCheckable: 1
-        checkState: 0
+        checkState: 1
         isLocked: 0
         gitStatusEntry:
           path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
@@ -2441,7 +4072,7 @@ MonoBehaviour:
         isHidden: 0
         isActive: 0
         treeIsCheckable: 1
-        checkState: 0
+        checkState: 1
         isLocked: 0
         gitStatusEntry:
           path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
@@ -2459,7 +4090,7 @@ MonoBehaviour:
         isHidden: 0
         isActive: 0
         treeIsCheckable: 1
-        checkState: 0
+        checkState: 1
         isLocked: 0
         gitStatusEntry:
           path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
@@ -2477,7 +4108,7 @@ MonoBehaviour:
         isHidden: 0
         isActive: 0
         treeIsCheckable: 1
-        checkState: 0
+        checkState: 1
         isLocked: 0
         gitStatusEntry:
           path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
@@ -2495,7 +4126,7 @@ MonoBehaviour:
         isHidden: 0
         isActive: 0
         treeIsCheckable: 1
-        checkState: 0
+        checkState: 1
         isLocked: 0
         gitStatusEntry:
           path: Assets\Plugins\GitHub\Editor\libsfw.bundle
@@ -2513,7 +4144,7 @@ MonoBehaviour:
         isHidden: 0
         isActive: 0
         treeIsCheckable: 1
-        checkState: 0
+        checkState: 1
         isLocked: 0
         gitStatusEntry:
           path: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
@@ -2531,7 +4162,7 @@ MonoBehaviour:
         isHidden: 0
         isActive: 0
         treeIsCheckable: 1
-        checkState: 0
+        checkState: 1
         isLocked: 0
         gitStatusEntry:
           path: Assets\Plugins\GitHub\Editor\libsfw.so
@@ -2549,7 +4180,7 @@ MonoBehaviour:
         isHidden: 0
         isActive: 0
         treeIsCheckable: 1
-        checkState: 0
+        checkState: 1
         isLocked: 0
         gitStatusEntry:
           path: Assets\Plugins\GitHub\Editor\libsfw.so.meta
@@ -2567,7 +4198,7 @@ MonoBehaviour:
         isHidden: 0
         isActive: 0
         treeIsCheckable: 1
-        checkState: 0
+        checkState: 1
         isLocked: 0
         gitStatusEntry:
           path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
@@ -2585,7 +4216,7 @@ MonoBehaviour:
         isHidden: 0
         isActive: 0
         treeIsCheckable: 1
-        checkState: 0
+        checkState: 1
         isLocked: 0
         gitStatusEntry:
           path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
@@ -2603,7 +4234,7 @@ MonoBehaviour:
         isHidden: 0
         isActive: 0
         treeIsCheckable: 1
-        checkState: 0
+        checkState: 1
         isLocked: 0
         gitStatusEntry:
           path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
@@ -2621,7 +4252,7 @@ MonoBehaviour:
         isHidden: 0
         isActive: 0
         treeIsCheckable: 1
-        checkState: 0
+        checkState: 1
         isLocked: 0
         gitStatusEntry:
           path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
@@ -2639,7 +4270,7 @@ MonoBehaviour:
         isHidden: 0
         isActive: 0
         treeIsCheckable: 1
-        checkState: 0
+        checkState: 1
         isLocked: 0
         gitStatusEntry:
           path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
@@ -2657,7 +4288,7 @@ MonoBehaviour:
         isHidden: 0
         isActive: 0
         treeIsCheckable: 1
-        checkState: 0
+        checkState: 1
         isLocked: 0
         gitStatusEntry:
           path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
@@ -2675,7 +4306,7 @@ MonoBehaviour:
         isHidden: 0
         isActive: 0
         treeIsCheckable: 1
-        checkState: 0
+        checkState: 1
         isLocked: 0
         gitStatusEntry:
           path: Assets\Plugins\GitHub\Editor\sfw.net.dll
@@ -2693,7 +4324,7 @@ MonoBehaviour:
         isHidden: 0
         isActive: 0
         treeIsCheckable: 1
-        checkState: 0
+        checkState: 1
         isLocked: 0
         gitStatusEntry:
           path: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
@@ -2711,7 +4342,7 @@ MonoBehaviour:
         isHidden: 0
         isActive: 0
         treeIsCheckable: 1
-        checkState: 0
+        checkState: 1
         isLocked: 0
         gitStatusEntry:
           path: Assets\Plugins\GitHub\Editor\System.Threading.dll
@@ -2729,7 +4360,7 @@ MonoBehaviour:
         isHidden: 0
         isActive: 0
         treeIsCheckable: 1
-        checkState: 0
+        checkState: 1
         isLocked: 0
         gitStatusEntry:
           path: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
@@ -2747,7 +4378,7 @@ MonoBehaviour:
         isHidden: 0
         isActive: 0
         treeIsCheckable: 1
-        checkState: 0
+        checkState: 1
         isLocked: 0
         gitStatusEntry:
           path: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
@@ -2765,7 +4396,7 @@ MonoBehaviour:
         isHidden: 0
         isActive: 0
         treeIsCheckable: 1
-        checkState: 0
+        checkState: 1
         isLocked: 0
         gitStatusEntry:
           path: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
@@ -2783,7 +4414,7 @@ MonoBehaviour:
         isHidden: 0
         isActive: 0
         treeIsCheckable: 1
-        checkState: 0
+        checkState: 1
         isLocked: 0
         gitStatusEntry:
           path: Assets\Plugins\GitHub\Editor\x64.meta
@@ -2801,7 +4432,7 @@ MonoBehaviour:
         isHidden: 0
         isActive: 0
         treeIsCheckable: 1
-        checkState: 0
+        checkState: 1
         isLocked: 0
         gitStatusEntry:
           path: 
@@ -2819,7 +4450,7 @@ MonoBehaviour:
         isHidden: 0
         isActive: 0
         treeIsCheckable: 1
-        checkState: 0
+        checkState: 1
         isLocked: 0
         gitStatusEntry:
           path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
@@ -2837,7 +4468,7 @@ MonoBehaviour:
         isHidden: 0
         isActive: 0
         treeIsCheckable: 1
-        checkState: 0
+        checkState: 1
         isLocked: 0
         gitStatusEntry:
           path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
@@ -2855,7 +4486,7 @@ MonoBehaviour:
         isHidden: 0
         isActive: 0
         treeIsCheckable: 1
-        checkState: 0
+        checkState: 1
         isLocked: 0
         gitStatusEntry:
           path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
@@ -2873,7 +4504,7 @@ MonoBehaviour:
         isHidden: 0
         isActive: 0
         treeIsCheckable: 1
-        checkState: 0
+        checkState: 1
         isLocked: 0
         gitStatusEntry:
           path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
@@ -2891,7 +4522,7 @@ MonoBehaviour:
         isHidden: 0
         isActive: 0
         treeIsCheckable: 1
-        checkState: 0
+        checkState: 1
         isLocked: 0
         gitStatusEntry:
           path: Assets\Plugins\GitHub\Editor\x86.meta
@@ -2909,7 +4540,7 @@ MonoBehaviour:
         isHidden: 0
         isActive: 0
         treeIsCheckable: 1
-        checkState: 0
+        checkState: 1
         isLocked: 0
         gitStatusEntry:
           path: 
@@ -2927,7 +4558,7 @@ MonoBehaviour:
         isHidden: 0
         isActive: 0
         treeIsCheckable: 1
-        checkState: 0
+        checkState: 1
         isLocked: 0
         gitStatusEntry:
           path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
@@ -2945,7 +4576,7 @@ MonoBehaviour:
         isHidden: 0
         isActive: 0
         treeIsCheckable: 1
-        checkState: 0
+        checkState: 1
         isLocked: 0
         gitStatusEntry:
           path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
@@ -2963,7 +4594,7 @@ MonoBehaviour:
         isHidden: 0
         isActive: 0
         treeIsCheckable: 1
-        checkState: 0
+        checkState: 1
         isLocked: 0
         gitStatusEntry:
           path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
@@ -2981,7 +4612,7 @@ MonoBehaviour:
         isHidden: 0
         isActive: 0
         treeIsCheckable: 1
-        checkState: 0
+        checkState: 1
         isLocked: 0
         gitStatusEntry:
           path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
@@ -2999,7 +4630,7 @@ MonoBehaviour:
         isHidden: 0
         isActive: 0
         treeIsCheckable: 1
-        checkState: 0
+        checkState: 1
         isLocked: 0
         gitStatusEntry:
           path: Assets\The Last Of Ant.unity
@@ -3017,12 +4648,228 @@ MonoBehaviour:
         isHidden: 0
         isActive: 0
         treeIsCheckable: 1
-        checkState: 0
+        checkState: 1
         isLocked: 0
         gitStatusEntry:
           path: Assets\The Last Of Ant.unity.meta
           fullPath: C:\Users\juanm\The Last Of Ant\Assets\The Last Of Ant.unity.meta
           projectPath: Assets\The Last Of Ant.unity.meta
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Assets\Tree.prefab
+        label: Tree.prefab
+        level: 1
+        isFolder: 0
+        isContainer: 1
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 1
+        isLocked: 0
+        gitStatusEntry:
+          path: Assets\Tree.prefab
+          fullPath: C:\Users\juanm\The Last Of Ant\Assets\Tree.prefab
+          projectPath: Assets\Tree.prefab
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Assets\Tree.prefab.meta
+        label: Tree.prefab.meta
+        level: 2
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 1
+        isLocked: 0
+        gitStatusEntry:
+          path: Assets\Tree.prefab.meta
+          fullPath: C:\Users\juanm\The Last Of Ant\Assets\Tree.prefab.meta
+          projectPath: Assets\Tree.prefab.meta
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Assets\Tree_Textures.meta
+        label: Tree_Textures.meta
+        level: 1
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 1
+        isLocked: 0
+        gitStatusEntry:
+          path: Assets\Tree_Textures.meta
+          fullPath: C:\Users\juanm\The Last Of Ant\Assets\Tree_Textures.meta
+          projectPath: Assets\Tree_Textures.meta
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Assets\Tree_Textures
+        label: Tree_Textures
+        level: 1
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 1
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 0
+      - path: Assets\Tree_Textures\diffuse.png
+        label: diffuse.png
+        level: 2
+        isFolder: 0
+        isContainer: 1
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 1
+        isLocked: 0
+        gitStatusEntry:
+          path: Assets\Tree_Textures\diffuse.png
+          fullPath: C:\Users\juanm\The Last Of Ant\Assets\Tree_Textures\diffuse.png
+          projectPath: Assets\Tree_Textures\diffuse.png
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Assets\Tree_Textures\diffuse.png.meta
+        label: diffuse.png.meta
+        level: 3
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 1
+        isLocked: 0
+        gitStatusEntry:
+          path: Assets\Tree_Textures\diffuse.png.meta
+          fullPath: C:\Users\juanm\The Last Of Ant\Assets\Tree_Textures\diffuse.png.meta
+          projectPath: Assets\Tree_Textures\diffuse.png.meta
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Assets\Tree_Textures\normal_specular.png
+        label: normal_specular.png
+        level: 2
+        isFolder: 0
+        isContainer: 1
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 1
+        isLocked: 0
+        gitStatusEntry:
+          path: Assets\Tree_Textures\normal_specular.png
+          fullPath: C:\Users\juanm\The Last Of Ant\Assets\Tree_Textures\normal_specular.png
+          projectPath: Assets\Tree_Textures\normal_specular.png
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Assets\Tree_Textures\normal_specular.png.meta
+        label: normal_specular.png.meta
+        level: 3
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 1
+        isLocked: 0
+        gitStatusEntry:
+          path: Assets\Tree_Textures\normal_specular.png.meta
+          fullPath: C:\Users\juanm\The Last Of Ant\Assets\Tree_Textures\normal_specular.png.meta
+          projectPath: Assets\Tree_Textures\normal_specular.png.meta
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Assets\Tree_Textures\shadow.png
+        label: shadow.png
+        level: 2
+        isFolder: 0
+        isContainer: 1
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 1
+        isLocked: 0
+        gitStatusEntry:
+          path: Assets\Tree_Textures\shadow.png
+          fullPath: C:\Users\juanm\The Last Of Ant\Assets\Tree_Textures\shadow.png
+          projectPath: Assets\Tree_Textures\shadow.png
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Assets\Tree_Textures\shadow.png.meta
+        label: shadow.png.meta
+        level: 3
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 1
+        isLocked: 0
+        gitStatusEntry:
+          path: Assets\Tree_Textures\shadow.png.meta
+          fullPath: C:\Users\juanm\The Last Of Ant\Assets\Tree_Textures\shadow.png.meta
+          projectPath: Assets\Tree_Textures\shadow.png.meta
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Assets\Tree_Textures\translucency_gloss.png
+        label: translucency_gloss.png
+        level: 2
+        isFolder: 0
+        isContainer: 1
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 1
+        isLocked: 0
+        gitStatusEntry:
+          path: Assets\Tree_Textures\translucency_gloss.png
+          fullPath: C:\Users\juanm\The Last Of Ant\Assets\Tree_Textures\translucency_gloss.png
+          projectPath: Assets\Tree_Textures\translucency_gloss.png
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Assets\Tree_Textures\translucency_gloss.png.meta
+        label: translucency_gloss.png.meta
+        level: 3
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 1
+        isLocked: 0
+        gitStatusEntry:
+          path: Assets\Tree_Textures\translucency_gloss.png.meta
+          fullPath: C:\Users\juanm\The Last Of Ant\Assets\Tree_Textures\translucency_gloss.png.meta
+          projectPath: Assets\Tree_Textures\translucency_gloss.png.meta
           originalPath: 
           indexStatus: 1
           workTreeStatus: 1
@@ -3035,7 +4882,7 @@ MonoBehaviour:
         isHidden: 0
         isActive: 0
         treeIsCheckable: 1
-        checkState: 0
+        checkState: 1
         isLocked: 0
         gitStatusEntry:
           path: 
@@ -3053,7 +4900,7 @@ MonoBehaviour:
         isHidden: 0
         isActive: 0
         treeIsCheckable: 1
-        checkState: 0
+        checkState: 1
         isLocked: 0
         gitStatusEntry:
           path: ProjectSettings\SceneTemplateSettings.json
@@ -3071,7 +4918,7 @@ MonoBehaviour:
         isHidden: 0
         isActive: 0
         treeIsCheckable: 1
-        checkState: 0
+        checkState: 1
         isLocked: 0
         gitStatusEntry:
           path: 
@@ -3089,7 +4936,7 @@ MonoBehaviour:
         isHidden: 0
         isActive: 0
         treeIsCheckable: 1
-        checkState: 0
+        checkState: 1
         isLocked: 0
         gitStatusEntry:
           path: UserSettings\EditorUserSettings.asset
@@ -3107,7 +4954,7 @@ MonoBehaviour:
         isHidden: 0
         isActive: 0
         treeIsCheckable: 1
-        checkState: 0
+        checkState: 1
         isLocked: 0
         gitStatusEntry:
           path: 
@@ -3125,7 +4972,7 @@ MonoBehaviour:
         isHidden: 0
         isActive: 0
         treeIsCheckable: 1
-        checkState: 0
+        checkState: 1
         isLocked: 0
         gitStatusEntry:
           path: UserSettings\Layouts\default-2021.dwlt
@@ -3157,6 +5004,18 @@ MonoBehaviour:
     - path: Assets\Materials.meta
       fullPath: C:\Users\juanm\The Last Of Ant\Assets\Materials.meta
       projectPath: Assets\Materials.meta
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Materials\Floor.mat
+      fullPath: C:\Users\juanm\The Last Of Ant\Assets\Materials\Floor.mat
+      projectPath: Assets\Materials\Floor.mat
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Materials\Floor.mat.meta
+      fullPath: C:\Users\juanm\The Last Of Ant\Assets\Materials\Floor.mat.meta
+      projectPath: Assets\Materials\Floor.mat.meta
       originalPath: 
       indexStatus: 1
       workTreeStatus: 1
@@ -3490,6 +5349,72 @@ MonoBehaviour:
       originalPath: 
       indexStatus: 1
       workTreeStatus: 1
+    - path: Assets\Tree.prefab
+      fullPath: C:\Users\juanm\The Last Of Ant\Assets\Tree.prefab
+      projectPath: Assets\Tree.prefab
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Tree.prefab.meta
+      fullPath: C:\Users\juanm\The Last Of Ant\Assets\Tree.prefab.meta
+      projectPath: Assets\Tree.prefab.meta
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Tree_Textures.meta
+      fullPath: C:\Users\juanm\The Last Of Ant\Assets\Tree_Textures.meta
+      projectPath: Assets\Tree_Textures.meta
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Tree_Textures\diffuse.png
+      fullPath: C:\Users\juanm\The Last Of Ant\Assets\Tree_Textures\diffuse.png
+      projectPath: Assets\Tree_Textures\diffuse.png
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Tree_Textures\diffuse.png.meta
+      fullPath: C:\Users\juanm\The Last Of Ant\Assets\Tree_Textures\diffuse.png.meta
+      projectPath: Assets\Tree_Textures\diffuse.png.meta
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Tree_Textures\normal_specular.png
+      fullPath: C:\Users\juanm\The Last Of Ant\Assets\Tree_Textures\normal_specular.png
+      projectPath: Assets\Tree_Textures\normal_specular.png
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Tree_Textures\normal_specular.png.meta
+      fullPath: C:\Users\juanm\The Last Of Ant\Assets\Tree_Textures\normal_specular.png.meta
+      projectPath: Assets\Tree_Textures\normal_specular.png.meta
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Tree_Textures\shadow.png
+      fullPath: C:\Users\juanm\The Last Of Ant\Assets\Tree_Textures\shadow.png
+      projectPath: Assets\Tree_Textures\shadow.png
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Tree_Textures\shadow.png.meta
+      fullPath: C:\Users\juanm\The Last Of Ant\Assets\Tree_Textures\shadow.png.meta
+      projectPath: Assets\Tree_Textures\shadow.png.meta
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Tree_Textures\translucency_gloss.png
+      fullPath: C:\Users\juanm\The Last Of Ant\Assets\Tree_Textures\translucency_gloss.png
+      projectPath: Assets\Tree_Textures\translucency_gloss.png
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Tree_Textures\translucency_gloss.png.meta
+      fullPath: C:\Users\juanm\The Last Of Ant\Assets\Tree_Textures\translucency_gloss.png.meta
+      projectPath: Assets\Tree_Textures\translucency_gloss.png.meta
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
     - path: ProjectSettings\SceneTemplateSettings.json
       fullPath: C:\Users\juanm\The Last Of Ant\ProjectSettings\SceneTemplateSettings.json
       projectPath: ProjectSettings\SceneTemplateSettings.json
@@ -3508,7 +5433,7 @@ MonoBehaviour:
       originalPath: 
       indexStatus: 0
       workTreeStatus: 3
-    changedFilesText: 59 changed files
+    changedFilesText: 72 changed files
     lastCurrentBranchChangedEvent:
       updatedTimeString: 2023-02-04T15:21:12.115-03:00
       cacheType: 1
@@ -3637,7 +5562,7 @@ MonoBehaviour:
         gitFileStatus: 0
         lockedAt: 1 ene. 0001, 00:00
     lastCurrentRemoteChangedEvent:
-      updatedTimeString: 0001-01-01T00:00:00.000+00:00
+      updatedTimeString: 2023-02-04T15:21:12.115-03:00
       cacheType: 1
     lastLocksChangedEvent:
       updatedTimeString: 0001-01-01T00:00:00.000+00:00
@@ -3679,7 +5604,7 @@ MonoBehaviour:
     updatedTimeString: 2023-02-04T15:28:52.002-03:00
     cacheType: 5
   lastStatusEntriesChangedEvent:
-    updatedTimeString: 2023-02-04T15:28:51.997-03:00
+    updatedTimeString: 0001-01-01T00:00:00.000+00:00
     cacheType: 6
   pullButtonContent:
     m_Text: Pull
@@ -3697,8 +5622,8 @@ MonoBehaviour:
     m_Text: Fetch
     m_Image: {fileID: 0}
     m_Tooltip: 
-  repositoryProgressValue: 1
-  repositoryProgressMessage: Listing changed files...
+  repositoryProgressValue: 0
+  repositoryProgressMessage: 
   appManagerProgressValue: 0
   appManagerProgressMessage: 
   connections: []
